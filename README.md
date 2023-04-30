@@ -4,7 +4,7 @@ This repository contains a curated list of beginner-friendly Python projects. Ea
 
 | S.No. | Project Name                      | GitHub Repo Link                               |
 | ----- | --------------------------------- | ---------------------------------------------- |
-| 1     | Number Guessing Game              | [Repo Link](https://github.com/user/number_guessing_game)       |
+| 1     | Number Guessing Game              | [Repo Link](https://github.com/MokarbeenAnsari/number-guessing-game)       |
 
 *Note: The provided GitHub Repo Links are placeholders. Replace them with your actual GitHub repository links or the links to the repositories you find online.*
 
