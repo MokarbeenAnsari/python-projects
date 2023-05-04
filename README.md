@@ -2,9 +2,9 @@
 
 This repository contains a curated list of beginner-friendly Python projects. Each project focuses on different aspects of Python programming and aims to help learners develop a strong foundation in Python. The projects are hosted on GitHub and can be accessed through the provided links.
 
-| S.No. | Project Name              | GitHub Repo Link              | GitHub Repo Link [OOP Version]     |
-| ----- | ------------------------- | ----------------------------- | ---------------------------------- |
-| 1     | Number Guessing Game      | [Repo Link](https://github.com/MokarbeenAnsari/number-guessing-game) | [Repo Link](https://github.com/MokarbeenAnsari/number-guessing-game-oop) |
+| S.No. | Project Name              | GitHub Repo Link                                                                |
+| ----- | ------------------------- | ------------------------------------------------------------------------------- |
+| 1     | Number Guessing Game      | [Repo Link](https://github.com/MokarbeenAnsari/number-guessing-game)            |
 
 ## Getting Started
 
