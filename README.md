@@ -6,6 +6,7 @@ This repository contains a curated list of beginner-friendly Python projects. Ea
 | ----- | ------------------------- | ------------------------------------------------------------------------------- |
 | 1     | Number Guessing Game      | [Repo Link](https://github.com/MokarbeenAnsari/number-guessing-game-oop)        |
 | 2     | Text Based Adventure Game | [Repo Link](https://github.com/MokarbeenAnsari/text-based-adventure-game)       |
+| 2     | Simple Calculator         | [Repo Link](https://github.com/MokarbeenAnsari/simple-calculator)               |
 
 
 ## Getting Started
@@ -21,4 +22,4 @@ If you have created or found a beginner-friendly Python project that you believe
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
