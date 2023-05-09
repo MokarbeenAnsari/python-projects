@@ -6,8 +6,8 @@ This repository contains a curated list of beginner-friendly Python projects. Ea
 | ----- | ------------------------- | ------------------------------------------------------------------------------- |
 | 1     | Number Guessing Game      | [Repo Link](https://github.com/MokarbeenAnsari/number-guessing-game-oop)        |
 | 2     | Text Based Adventure Game | [Repo Link](https://github.com/MokarbeenAnsari/text-based-adventure-game)       |
-| 2     | Simple Calculator         | [Repo Link](https://github.com/MokarbeenAnsari/simple-calculator)               |
-
+| 3     | Simple Calculator         | [Repo Link](https://github.com/MokarbeenAnsari/simple-calculator)               |
+| 4     | To-Do List Application    | [Repo Link](https://github.com/MokarbeenAnsari/to-do-list-application)          |
 
 ## Getting Started
 
