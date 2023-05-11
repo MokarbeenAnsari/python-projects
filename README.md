@@ -23,4 +23,4 @@ If you have created or found a beginner-friendly Python project that you believe
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
