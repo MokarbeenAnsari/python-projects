@@ -1,4 +1,4 @@
-# Top 50 Python Projects for Beginners
+# Top 20 Python Projects for Beginners
 
 This repository contains a curated list of beginner-friendly Python projects. Each project focuses on different aspects of Python programming and aims to help learners develop a strong foundation in Python. The projects are hosted on GitHub and can be accessed through the provided links.
 
