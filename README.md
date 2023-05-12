@@ -9,6 +9,8 @@ This repository contains a curated list of beginner-friendly Python projects. Ea
 | 3     | Simple Calculator         | [Repo Link](https://github.com/MokarbeenAnsari/simple-calculator)               |
 | 4     | To-Do List Application    | [Repo Link](https://github.com/MokarbeenAnsari/to-do-list-application)          |
 | 5     | Rock, Paper, Scissors Game| [Repo Link](https://github.com/MokarbeenAnsari/rock-paper-scissors)             |
+| 6     | Tic, Tac, Toe Game        | [Repo Link](https://github.com/MokarbeenAnsari/tic-tac-toe)                     |
+
 
 ## Getting Started
 
